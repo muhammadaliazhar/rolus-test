@@ -1,1 +1,1 @@
-print("This is a rolustech project")
+print("This is a rolustech app, version:2.0")
